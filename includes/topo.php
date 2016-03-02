@@ -1,4 +1,4 @@
-<div class="span3 topo-dir"><div class="logo">Logo</div></div>
+<div class="span3 topo-dir"><img src="assets/logo.png"></div>
 <div class="span4 topo-meio"></div>
 <div class="span5 topo-esq">
     <div class="login">
@@ -18,7 +18,7 @@
     <div class="busca">        
         <form class="form-search">
             <div class="input-append">
-                <input class="span9" id="appendedInputButton" type="text">
+                <input class="span9" id="appendedInputButton" type="text" placeholder="Pesquisar">
                 <button class="btn" type="button"><i class="icon-search"></i></button>
             </div>
         </form>

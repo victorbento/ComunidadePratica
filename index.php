@@ -23,8 +23,7 @@
         <div class="meio">
             <div class="container">
                 <div class="content">
-                    <div class="row-fluid">        
-                        <?php include_once './includes/esquerda.php'; ?>         
+                    <div class="row-fluid">         
                         <?php include_once './includes/meio.php'; ?>         
                     </div>
                 </div>
