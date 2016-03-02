@@ -95,7 +95,7 @@
 		  <tr>
 			<td class="text-center"><i class="fa fa-question fa-2x text-primary"></i></td>
 			<td>
-			  <h4><a href="#">PHP</a><br><small>Discussões e Dúvidas</small></h4>
+			  <h4><a href="post.php">PHP</a><br><small>Discussões e Dúvidas</small></h4>
 			</td>
 			<td class="text-center hidden-xs hidden-sm"><a href="#">42</a></td>
 			<td class="text-center hidden-xs hidden-sm"><a href="#">500</a></td>
