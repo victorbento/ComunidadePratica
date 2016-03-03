@@ -19,8 +19,18 @@
         </div><br \>
     </div>
     
-
-
+    <div class="span12">
+        <div class="pull-right">
+            <div class="btn-group">
+                <button class="btn dropdown-toggle" data-toggle="dropdown">4 <span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    <li><a href="#">8</a></li>
+                    <li><a href="#">12</a></li>
+                    <li><a href="#">16</a></li>
+                </ul>
+            </div> mensagens por página
+        </div>
+    </div>
 
     21/01/2016 09:58
     <div class="span3">
@@ -132,7 +142,11 @@
     </ul>
 </div>
 
-
-<div class="alert alert-info"> 
-    Visualizando o tópico: 2 usuários registrados e 14 visitantes.
-</div>
+<ul class="pager">
+  <li class="previous">
+    <a href="#">&larr; Como acumular strings numa única variável?</a>
+  </li>
+  <li class="next">
+    <a href="#">Como passar criptografia do C# pro PHP &rarr;</a>
+  </li>
+</ul>

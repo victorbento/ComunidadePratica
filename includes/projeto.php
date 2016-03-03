@@ -27,7 +27,18 @@
         </div><br \>
     </div>
     
-
+    <div class="span12">
+        <div class="pull-right">
+            <div class="btn-group">
+                <button class="btn dropdown-toggle" data-toggle="dropdown">4 <span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    <li><a href="#">8</a></li>
+                    <li><a href="#">12</a></li>
+                    <li><a href="#">16</a></li>
+                </ul>
+            </div> mensagens por página
+        </div>
+    </div>
 
 
     12/02/2016 13:21
