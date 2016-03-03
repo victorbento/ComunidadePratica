@@ -61,7 +61,7 @@
 		  <tr>
 			<td class="text-center"><i class="fa fa-question fa-2x text-primary"></i></td>
 			<td>
-			  <h4><a href="#">Caiu do Caminhão</a><br><small>Loja Virtual</small></h4>
+			  <h4><a href="caiudocaminhao.php">Caiu do Caminhão</a><br><small>Loja Virtual</small></h4>
 			</td>
 			<td class="text-center hidden-xs hidden-sm"><a href="#">6</a></td>
 			<td class="text-center hidden-xs hidden-sm"><a href="#">24</a></td>
